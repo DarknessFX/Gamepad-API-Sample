@@ -22,6 +22,10 @@ An extension from the original Gamepad API Demo that includes all buttons, axes,
 - Axes presented as value and scale bar.
 - Move a html object for each input source DPad, LStick, RStick and faceb buttons.
 
+### Live Demo
+
+https://darknessfx.github.io/gamepad.html
+
 ### Showcase
 
 ![Gameapi Demo Showcase](.git_img/gamepad_demo.gif)
