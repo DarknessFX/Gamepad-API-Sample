@@ -24,7 +24,7 @@ An extension from the original Gamepad API Demo that includes all buttons, axes,
 
 ### Live Demo
 
-[https://darknessfx.github.io/gamepad.html](https://darknessfx.github.io/gamepad.html" target="_blank)
+https://darknessfx.github.io/gamepad.html
 
 ### Showcase
 
