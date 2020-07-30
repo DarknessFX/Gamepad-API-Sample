@@ -46,10 +46,10 @@ v1.0 - Released.
 
 Thanks to : 
 
-  http://chrisdavidmills.github.io/gamepad-buttons/
-  https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API
-  https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API
-
+  http://chrisdavidmills.github.io/gamepad-buttons/ 
+  https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API 
+  https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API 
+  
 ## License
 
 @Copyleft all wrongs reserved. <br/><br/>
