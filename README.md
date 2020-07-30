@@ -24,7 +24,7 @@ An extension from the original Gamepad API Demo that includes all buttons, axes,
 
 ### Showcase
 
-![Gameapi Demo Showcase](.gitignore/gamepad_demo.gif)
+![Gameapi Demo Showcase](.git_img/gamepad_demo.gif)
 
 ## Getting Started
 
